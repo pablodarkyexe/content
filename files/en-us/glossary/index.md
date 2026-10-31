@@ -1,4 +1,4 @@
----
+my personal terms---
 title: Glossary of web terms
 short-title: Glossary
 slug: Glossary
